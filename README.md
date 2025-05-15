@@ -10,14 +10,6 @@ Este es un proyecto simple de consola en Java que permite convertir montos entre
 - Interfaz por consola sencilla.
 - Uso de la biblioteca Gson para parsear respuestas JSON.
 
-## 🧱 Estructura del Proyecto
-
-📁 ConversorMonedas/
-┣ 📄 Main.java
-┣ 📄 ConvertirMoneda.java
-┣ 📄 ConsultarMoneda.java
-┣ 📄 Monedas.java
-┣ 📄 README.md
 
 📋 Uso
 Ejecutá la clase Main.
